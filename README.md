@@ -1,6 +1,7 @@
 # ContextConflict-Dataset
 
-**ContextConflict-Dataset** is introduced in the paper *Large Language Models in Resolving Contextual Knowledge Conflicts*.
+**ContextConflict-Dataset** is introduced in the paper [*Large Language Models in Resolving Contextual Knowledge Conflicts*](https://drive.google.com/file/d/19aifLwemOaZvbqkHT1AEJTcc75pU8E7G/view).
+
 
 The dataset is designed to evaluate how large language models (LLMs) handle conflicts arising **within contextual knowledge itself**, rather than conflicts between parametric knowledge and external context.
 
